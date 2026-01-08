@@ -48,23 +48,15 @@ I enjoy turning simple ideas into working web pages 😄
 ## 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kashanahmedfarooqui&show_icons=true&theme=dark)
+
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kashanahmedfarooqui&theme=dark)
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kashanahmedfarooqui&layout=compact&theme=dark)
+
 
 ---
 
 ## 🏆 GitHub Trophies
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=kashanahmedfarooqui&theme=radical&margin-w=10)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=kashanahmedfarooqui&theme=radical&margin-w=8)
 
----
-
-## 🐍 Contribution Snake
-
-![Snake animation](https://raw.githubusercontent.com/kashanahmedfarooqui/kashanahmedfarooqui/output/github-contribution-grid-snake.svg)
-
----
-
-## 👀 Profile Views
-
-![Visitor Count](https://visitcount.itsvg.in/api?id=kashanahmedfarooqui&icon=0&color=0)
