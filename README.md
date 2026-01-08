@@ -43,7 +43,5 @@ I enjoy turning simple ideas into working web pages 😄
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=Matplotlib&logoColor=black)
 ![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
----
 
-.vercel.app/?username=kashanahmedfarooqui&theme=radical&margin-w=8)
 
